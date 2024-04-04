@@ -2,7 +2,7 @@ pandas
 statsmodels
 matplotlib
 seaborn
-jupyter
+#jupyter
 ipykernel
 ipywidgets
 widgetsnbextension
