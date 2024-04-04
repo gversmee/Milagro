@@ -1,0 +1,8 @@
+pandas
+statsmodels
+matplotlib
+seaborn
+jupyter
+ipykernel
+ipywidgets
+widgetsnbextension
